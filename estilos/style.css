@@ -1,0 +1,27 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #fcfafa; /* Cor de fundo */
+    color: #372d2d; /* Cor do texto */
+}
+
+main{
+
+   
+    padding: 10px;
+    background-color: cadetblue;
+    color:#372d2d
+} 
+    
+
+
+   
